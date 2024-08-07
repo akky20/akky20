@@ -53,6 +53,6 @@
 
 <br clear="both">
 
-<!--<img src="https://raw.githubusercontent.com/akky20/akky20/output/snake.svg" alt="Snake animation" />-->
+<img src="https://raw.githubusercontent.com/akky20/akky20/output/snake.svg" alt="Snake animation" />
 
 ###

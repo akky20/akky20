@@ -2,8 +2,8 @@
 
 - 👨🏻‍💻 I am Abhiroop, a passionate Developer based in India
 - 🎓 Currently pursuing BTech in Mechanical Engineering 
-- 😄 Life centers around: Robots, Machine Learning, and Development.
-- ✨ Having immense love for exploring and creating tech domains
+- ✨ Life centers around: Robots, Machine Learning, and Development.
+- 😄 Passionate about exploring and developing new tech domains.
 
 
 <!--<div align="center">

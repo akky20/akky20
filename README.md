@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Abhiroop and I'm an Enthusiast of Robotics , AI/ML& Web Dev</h2>
+<h1 align="center">Hi 👋! My name is Abhiroop </h1>
 
 ###
 

@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋! My name is Abhiroop </h1>
 
 ###
+- 👨🏻‍💻 I am Abhiroop, a passionate Developer based in India
+- 🎓 Currently pursuing BTech in Mechanical Engineering 
+- 😄 Life centers around: Robots, Machine Learning, and Development.
+- ✨ Having immense love for exploring and creating tech domains
 
-<div align="center">
+
+<!--<div align="center">
   <img src="https://streak-stats.demolab.com?user=akky20&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akky20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+</div>-->
 
 ###
 <br>

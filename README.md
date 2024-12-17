@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋! My name is Abhiroop </h1>
 
-- 👨🏻‍💻 I am Abhiroop, a passionate Developer based in India
+- 👨🏻‍💻 A passionate Developer based in India
 - 🎓 Currently pursuing BTech in Mechanical Engineering 
 - ✨ Life centers around: Robots, Machine Learning, and Development.
 - 😄 Passionate about exploring and developing new tech domains.
@@ -20,7 +20,7 @@
 
   <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,css,django,docker,express,figma,git,bootstrap,github,html,js,linux,opencv,mysql,nodejs,py,pytorch,react,ros,cmake,tailwind,autocad,tensorflow,gcp&perline=5" />
+    <img src="https://skillicons.dev/icons?i=ros,docker,linux,py,c,cpp,css,django,express,figma,git,bootstrap,github,html,js,opencv,mysql,nodejs,pytorch,react,cmake,tailwind,autocad,tensorflow,gcp&perline=5" />
   </a>
 </p>
 </div>
